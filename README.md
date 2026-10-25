@@ -2,6 +2,8 @@
 
 Painel independente de acompanhamento da eleição presidencial de 2026. Os resultados nacionais e por UF vêm dos arquivos JSON públicos de divulgação do TSE. A interface atualiza a cada 60 segundos e também oferece atualização manual.
 
+Site publicado: [apurador-eleicoes.vercel.app](https://apurador-eleicoes.vercel.app).
+
 ## Executar
 
 ```bash
